@@ -1,0 +1,2 @@
+# semuxwiki
+Semux Wiki
